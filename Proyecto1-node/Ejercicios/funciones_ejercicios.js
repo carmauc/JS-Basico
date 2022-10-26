@@ -14,6 +14,6 @@ async function damePromesa() {
 function* idsPares() {
     let id = 0
     while(true) {
-        yield id += 2
+        yield id += 2  
     }
 }
